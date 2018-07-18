@@ -14,6 +14,7 @@ class App extends Component {
         <NavBar/>
         <Index/>
         <h1>Title</h1>
+        <h2>Marvel</h2>
       </div>
     );
   }
